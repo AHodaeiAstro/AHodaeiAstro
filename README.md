@@ -28,3 +28,4 @@ Outside of my university research, I serve in executive leadership roles for int
 
 ### 📫 Connect with me
 * **LinkedIn:** [Armin Hodaei](https://www.linkedin.com/in/arminhodaei/)
+* **Kaggle:** [Armin Hodaei](https://www.kaggle.com/arminhodaei)
