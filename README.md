@@ -28,8 +28,8 @@ Outside of my university research, I serve in executive leadership roles for int
 
 ### 📚 Publications & Educational Resources
 * **Author:** [CAAO Preparation Guide](https://caao.ca/wp-content/uploads/2026/01/CAAO-Tutorial-2025.pdf) — The official preparatory e-book for the Canadian Astronomy and Astrophysics Olympiad.
-* **Author:** [A tutorial in Cosmology]([https://physolympacademy.com](https://physolympacademy.com/wp-content/uploads/2025/09/A_Tutorial_in_Cosmology.pdf)) — A comprehensive guide on theoretical cosmology frameworks.
-* **Author:** [Kepler's Equation Study Guide]([https://physolympacademy.com/wp-content/uploads/2025/09/Keplers_Equation_Study_Guide-1.pdf]) — Comprehensive guide on Kepler's orbital equations.
+* **Author:** [A tutorial in Cosmology](https://physolympacademy.com/wp-content/uploads/2025/09/A_Tutorial_in_Cosmology.pdf) — A comprehensive guide on theoretical cosmology frameworks.
+* **Author:** [Kepler's Equation Study Guide](https://physolympacademy.com/wp-content/uploads/2025/09/Keplers_Equation_Study_Guide-1.pdf) — Comprehensive guide on Kepler's orbital equations.
 
 ---
 
