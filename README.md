@@ -7,6 +7,9 @@ I am an observational astrophysicist and computational researcher currently purs
 Outside of my university research, I serve in executive leadership roles for international physics competitions, directing global grading standards and mentoring elite STEM talent.
 
 ---
+### 🌐 Visit my full portfolio:
+[![Website Badge](https://img.shields.io/badge/Website-arminhodaei-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://AHodaeiAstro.github.io)
+---
 
 ### 🔭 Current Research & Academic Focus
 * **York University (Ph.D. Research):** Analyzing the variability of broad absorption line (BAL) quasars and redshifted inflow scenarios.
