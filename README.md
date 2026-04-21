@@ -1,14 +1,12 @@
 # Hi there, I'm Armin Hodaei 👋
 
 ### Astrophysics Ph.D. Researcher | Global STEM Executive | Computational Physicist
+[![Website Badge](https://img.shields.io/badge/Portfolio-AHodaeiAstro.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://AHodaeiAstro.github.io)
 
 I am an observational astrophysicist and computational researcher currently pursuing my Ph.D. at York University under Dr. Patrick Hall. My research bridges the gap between massive astronomical datasets and theoretical physics, with a specific focus on the extreme kinematics of supermassive black holes.
 
 Outside of my university research, I serve in executive leadership roles for international physics competitions, directing global grading standards and mentoring elite STEM talent.
 
----
-### 🌐 Visit my full portfolio:
-[![Website Badge](https://img.shields.io/badge/Website-arminhodaei-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://AHodaeiAstro.github.io)
 ---
 
 ### 🔭 Current Research & Academic Focus
@@ -38,5 +36,6 @@ Outside of my university research, I serve in executive leadership roles for int
 ---
 
 ### 📫 Connect with me
+* **Portfolio Website:** [AHodaeiAstro.github.io](https://AHodaeiAstro.github.io)
 * **LinkedIn:** [Armin Hodaei](https://www.linkedin.com/in/arminhodaei/)
 * **Kaggle:** [Armin Hodaei](https://www.kaggle.com/arminhodaei)
