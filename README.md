@@ -21,9 +21,20 @@ Outside of my university research, I serve in executive leadership roles for int
 ---
 
 ### 💻 Technical Arsenal
-* **Languages:** Python, SQL, LaTeX
-* **Astrophysics Stack:** `Astropy`, `NumPy`, `SciPy`, `Matplotlib`, `Pandas`
-* **Tools:** Jupyter Notebooks, Git, Topcat
+
+**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+**Astrophysics & Data Stack** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Astropy](https://img.shields.io/badge/Astropy-FF69B4?style=for-the-badge)
+
+**Tools & Environment** ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TOPCAT](https://img.shields.io/badge/TOPCAT-1A1A1A?style=for-the-badge)
 
 ---
 
