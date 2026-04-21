@@ -2,9 +2,9 @@
 
 ### Astrophysics Ph.D. Researcher | Global STEM Executive | Computational Physicist
 
-I am an observational astrophysicist and computational researcher currently pursuing my Ph.D. at York University under Dr. Patrick Hall. My research bridges the gap between massive astronomical datasets and theoretical physics, with a specific focus on the extreme kinematics of supermassive black holes.
+I am an observational astrophysicist and computational researcher pursuing my Ph.D. at York University under Dr. Patrick Hall. My research bridges massive astronomical datasets with theoretical physics, focusing on the extreme kinematics of supermassive black holes and high-velocity quasar outflows within the SDSS-V survey framework.
 
-Outside of my university research, I serve in executive leadership roles for international physics competitions, directing global grading standards and mentoring elite STEM talent.
+Beyond my university research, I am an active Physics Educator at Holy Trinity School (HTS) and serve in executive leadership roles for global STEM competitions. As a Lead Examiner for the IPhO and the National Team Coach for the IOAA, I direct international grading standards and mentor the next generation of elite scientific talent.
 
 ---
 
@@ -35,6 +35,7 @@ Outside of my university research, I serve in executive leadership roles for int
 ---
 
 ### 📫 Connect with me
-* **Portfolio Website:** [![Website Badge](https://img.shields.io/badge/Portfolio-AHodaeiAstro.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://AHodaeiAstro.github.io)
 * **LinkedIn:** [Armin Hodaei](https://www.linkedin.com/in/arminhodaei/)
 * **Kaggle:** [Armin Hodaei](https://www.kaggle.com/arminhodaei)
+* **Portfolio Website:**
+  [![Website Badge](https://img.shields.io/badge/Portfolio-AHodaeiAstro.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://AHodaeiAstro.github.io)
